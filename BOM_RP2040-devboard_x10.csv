@@ -1,23 +1,21 @@
-﻿ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,link,Total Price (USD)
-1,4.7uF,C1,C0603,10,C1608X7S1A475K080AC,TDK,LCSC,C5331011,0.207,https://item.szlcsc.com/362304.html,2.070
-2,22uF,C2,C0603,10,GRM188R60J226MEA0D,muRata(村田),LCSC,C77042,0.057,https://item.szlcsc.com/362304.html,0.570
-3,100nF,"C3,C4,C5,C6,C7,C8,C9,C10,C11,C14",C0603,100,CL10B104KC8NNNC,SAMSUNG(三星),LCSC,C15725,0.017,https://lcsc.com/eda_search?q=C15725&%26type=1&ref=editor,1.700
-4,1uF,"C12,C13",C0603,20,CL10B105KA8NNNC,SAMSUNG(三星),LCSC,C29936,0.023,https://item.szlcsc.com/362304.html,0.460
-5,1uH,L1,L2520,10,DFE252012F-1R0M=P2,muRata(村田),LCSC,C435392,0.123,https://item.szlcsc.com/183140.html,1.230
-6,453kΩ,R1,R0402,10,CRCW0402453KFKED,VISHAY(威世),LCSC,C843903,0.006,https://item.szlcsc.com/323315.html,0.060
-7,100kΩ,R2,R0402,10,CRCW0402100KFKED,VISHAY(威世),LCSC,C481918,0.006,https://item.szlcsc.com/323315.html,0.060
-8,RP2040,U1,LQFN-56_L7.0-W7.0-P0.4-EP,10,RP2040,Raspberry Pi(树莓派),LCSC,C2040,0.993,https://atta.szlcsc.com/upload/public/pdf/source/20210621/C2040_96F425825606B7957D87DD32E2512CA9.pdf,9.930
-9,TLV62568ADRLR,U2,SOT-563_L1.6-W1.2-P0.50-LS1.6-BL,10,TLV62568ADRLR,TI(德州仪器),LCSC,C398372,0.264,https://item.szlcsc.com/188416.html,2.640
-10,W25Q128JVSIQTR,U3,SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL,10,W25Q128JVSIQ,Winbond(华邦),LCSC,C97521,2.754,https://item.szlcsc.com/63461.html,27.540
-11,27.4Ω,"U4,U5",R0603,20,FRC0603F27R4TS,FOJAN(富捷),LCSC,C5126244,0.002,https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf,0.040
-12,ZX-PZ2.54-1-16PZZ,"GPIO_RIGHT,GPIO_LEFT",HDR-TH_16P-P2.54-V-M-2,20,ZX-PZ2.54-1-16PZZ,Megastar(兆星),LCSC,C7501270,0.081,https://atta.szlcsc.com/upload/public/pdf/source/20230809/B5D7EA64F9D55C9D65CC704011AF33D7.pdf,1.620
-13,PTS526SMG15SMTR21 LFS,"BOOTSEL,RESET",SW-SMD_4P-L4.8-W4.8-P3.70-LS6.4-1,20,PTS526SMG15SMTR21 LFS,C&K,LCSC,C6630024,0.118,https://atta.szlcsc.com/upload/public/pdf/source/20200519/C557590_74E2946E0EEDC95A5BEFAB8D1FC7A371.pdf,2.360
-14,MICROXNJ,USB1,MICRO-USB-SMD_MICROXNJ_1,10,MicroXNJ,SHOU HAN(首韩),LCSC,C404969,0.041,https://item.szlcsc.com/datasheet/MicroXNJ/392534.html?spm=sc.gbn.xds.a&lcsc_vid=FlFXVwUHRABZXwJSFgRdVlQARwUNBldTTgVdXwZeQVIxVlNQQlZZV1NfQFBaVTsOAxUeFF5JWA0NAgAHWQIASA%3D%3D,0.410
-15,PCB (Bare Board),PCB,"70mm x 30mm, 2-Layer, Blue",10,,JLCPCB,JLCPCB,,0.5740,https://jlcpcb.com/,5.74
-16,2-in-1 Hot Air Rework & Soldering Iron Station,TOOL,Bench Equipment,1,862D++,YIHUA,eBay/Amazon,,85.0000,https://www.amazon.com/YIHUA-Soldering-Station-Multiple-Functions/dp/B07RY5XWVG,85.00
-17,"Leaded Solder Wire (Sn63/Pb37, 0.5mm, 50g)",TOOL,Consumable,1,,Generic,Amazon,,8.0000,https://www.amazon.com/YIHUA-Soldering-Station-Multiple-Functions/dp/B07RY5XWVG,8.00
-18,No-Clean Flux Paste (10g),TOOL,Consumable,1,,Generic,Amazon,,6.0000,https://www.amazon.com/Best-Sellers-Industrial-Scientific-Soldering-Parts-Accessories/zgbs/industrial/13837301/?pg=1,6.00
-19,ESD-Safe Tweezer Set,TOOL,Hand Tool,1,,Generic,Amazon,,8.0000,https://www.amazon.com/YIHUA-Soldering-Station-Multiple-Functions/dp/B07RY5XWVG,8.00
-20,Brass Tip Cleaner / Sponge,TOOL,Hand Tool,1,,Generic,Amazon,,5.0000,https://www.amazon.com/YIHUA-Soldering-Station-Multiple-Functions/dp/B07RY5XWVG,5.00
-21,Isopropyl Alcohol 99% (16oz),TOOL,Consumable,1,,Generic,Amazon,,7.0000,https://www.amazon.com/MG-Chemicals-824-1L-Isopropyl-Alcohol/dp/B005DNQX3C,7.00
-22,PCB Holder / Helping Hands,TOOL,Hand Tool,1,,Generic,Amazon,,12.0000,https://www.amazon.com/helping-hands-soldering/s?k=helping+hands+soldering,12.00
+﻿ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,link,Total Price,Currency
+1,4.7uF,C1,C0603,10,C1608X7S1A475K080AC,TDK,LCSC,C5331011,0.207,https://item.szlcsc.com/362304.html,2.070,USD
+2,22uF,C2,C0603,10,GRM188R60J226MEA0D,muRata(村田),LCSC,C77042,0.057,https://item.szlcsc.com/362304.html,0.570,USD
+3,100nF,"C3,C4,C5,C6,C7,C8,C9,C10,C11,C14",C0603,100,CL10B104KC8NNNC,SAMSUNG(三星),LCSC,C15725,0.017,https://lcsc.com/eda_search?q=C15725&%26type=1&ref=editor,1.700,USD
+4,1uF,"C12,C13",C0603,20,CL10B105KA8NNNC,SAMSUNG(三星),LCSC,C29936,0.023,https://item.szlcsc.com/362304.html,0.460,USD
+5,1uH,L1,L2520,10,DFE252012F-1R0M=P2,muRata(村田),LCSC,C435392,0.123,https://item.szlcsc.com/183140.html,1.230,USD
+6,453kΩ,R1,R0402,10,CRCW0402453KFKED,VISHAY(威世),LCSC,C843903,0.006,https://item.szlcsc.com/323315.html,0.060,USD
+7,100kΩ,R2,R0402,10,CRCW0402100KFKED,VISHAY(威世),LCSC,C481918,0.006,https://item.szlcsc.com/323315.html,0.060,USD
+8,RP2040,U1,LQFN-56_L7.0-W7.0-P0.4-EP,10,RP2040,Raspberry Pi(树莓派),LCSC,C2040,0.993,https://atta.szlcsc.com/upload/public/pdf/source/20210621/C2040_96F425825606B7957D87DD32E2512CA9.pdf,9.930,USD
+9,TLV62568ADRLR,U2,SOT-563_L1.6-W1.2-P0.50-LS1.6-BL,10,TLV62568ADRLR,TI(德州仪器),LCSC,C398372,0.264,https://item.szlcsc.com/188416.html,2.640,USD
+10,W25Q128JVSIQTR,U3,SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL,10,W25Q128JVSIQ,Winbond(华邦),LCSC,C97521,2.754,https://item.szlcsc.com/63461.html,27.540,USD
+11,27.4Ω,"U4,U5",R0603,20,FRC0603F27R4TS,FOJAN(富捷),LCSC,C5126244,0.002,https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf,0.040,USD
+12,ZX-PZ2.54-1-16PZZ,"GPIO_RIGHT,GPIO_LEFT",HDR-TH_16P-P2.54-V-M-2,20,ZX-PZ2.54-1-16PZZ,Megastar(兆星),LCSC,C7501270,0.081,https://atta.szlcsc.com/upload/public/pdf/source/20230809/B5D7EA64F9D55C9D65CC704011AF33D7.pdf,1.620,USD
+13,PTS526SMG15SMTR21 LFS,"BOOTSEL,RESET",SW-SMD_4P-L4.8-W4.8-P3.70-LS6.4-1,20,PTS526SMG15SMTR21 LFS,C&K,LCSC,C6630024,0.118,https://atta.szlcsc.com/upload/public/pdf/source/20200519/C557590_74E2946E0EEDC95A5BEFAB8D1FC7A371.pdf,2.360,USD
+14,MICROXNJ,USB1,MICRO-USB-SMD_MICROXNJ_1,10,MicroXNJ,SHOU HAN(首韩),LCSC,C404969,0.041,https://item.szlcsc.com/datasheet/MicroXNJ/392534.html?spm=sc.gbn.xds.a&lcsc_vid=FlFXVwUHRABZXwJSFgRdVlQARwUNBldTTgVdXwZeQVIxVlNQQlZZV1NfQFBaVTsOAxUeFF5JWA0NAgAHWQIASA%3D%3D,0.410,USD
+15,PCB (Bare Board),PCB,"70mm x 30mm, 2-Layer, Blue",10,,JLCPCB,JLCPCB,,0.5740,https://jlcpcb.com/,5.74,USD
+16,"Basic Soldering Iron Kit (60W, 5 tips, stand, tweezers, desoldering pump)",TOOL,Hand Tool,1,B06XZ31W3M,ANBES,Amazon,,16.9900,https://www.amazon.com/ANBES-Soldering-Iron-Kit-Electronics/dp/B06XZ31W3M,16.99,USD
+,,,,,,,,,,,,
+,Subtotal: Board Parts + PCB,,,,,,,,,56.43,USD
+,Subtotal: Tools,,,,,,,,,16.99,USD
+,GRAND TOTAL,,,,,,,,,73.42,USD
