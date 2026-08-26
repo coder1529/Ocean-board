@@ -1,4 +1,4 @@
-ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,link,Total Price,Currency
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price Per One Part,link,Total Price,Currency
 1,4.7uF,C1,C0603,10,C1608X7S1A475K080AC,TDK,LCSC,C5331011,0.207,https://item.szlcsc.com/362304.html,2.070,USD
 2,22uF,C2,C0603,10,GRM188R60J226MEA0D,muRata(村田),LCSC,C77042,0.057,https://item.szlcsc.com/362304.html,0.570,USD
 3,100nF,"C3,C4,C5,C6,C7,C8,C9,C10,C11,C14",C0603,100,CL10B104KC8NNNC,SAMSUNG(三星),LCSC,C15725,0.017,https://lcsc.com/eda_search?q=C15725&%26type=1&ref=editor,1.700,USD
